@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/Mlops_Mlflow/mlruns/736985376462468220/11ca3a7d4dff480dafd3bffa56911b08/artifacts
+end_time: 1759321940120
+entry_point_name: ''
+experiment_id: '736985376462468220'
+lifecycle_stage: active
+run_id: 11ca3a7d4dff480dafd3bffa56911b08
+run_name: useful-grouse-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759321939840
+status: 3
+tags: []
+user_id: HP

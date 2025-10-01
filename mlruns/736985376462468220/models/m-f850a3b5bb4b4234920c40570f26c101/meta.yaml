@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/Mlops_Mlflow/mlruns/736985376462468220/models/m-f850a3b5bb4b4234920c40570f26c101/artifacts
+creation_timestamp: 1759321943004
+experiment_id: '736985376462468220'
+last_updated_timestamp: 1759321961173
+model_id: m-f850a3b5bb4b4234920c40570f26c101
+model_type: null
+name: random_forest
+source_run_id: d892a6f841f840afa3d172c5acf58c5e
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOPS/Mlops_Mlflow/mlruns/736985376462468220/b248b6baac534ae68ec516282cd67b2a/artifacts
+end_time: 1759321939799
+entry_point_name: ''
+experiment_id: '736985376462468220'
+lifecycle_stage: active
+run_id: b248b6baac534ae68ec516282cd67b2a
+run_name: skittish-cat-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759321939462
+status: 3
+tags: []
+user_id: HP
