@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/752400750117350479/c6ae43f7849041c191ce60eb54bd9bc2/artifacts
+end_time: 1759319110276
+entry_point_name: ''
+experiment_id: '752400750117350479'
+lifecycle_stage: active
+run_id: c6ae43f7849041c191ce60eb54bd9bc2
+run_name: blushing-lamb-321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759319098437
+status: 3
+tags: []
+user_id: HP
