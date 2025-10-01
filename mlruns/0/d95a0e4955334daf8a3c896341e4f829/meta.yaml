@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d95a0e4955334daf8a3c896341e4f829/artifacts
+end_time: 1759249575014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d95a0e4955334daf8a3c896341e4f829
+run_name: nebulous-carp-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759249574860
+status: 3
+tags: []
+user_id: HP

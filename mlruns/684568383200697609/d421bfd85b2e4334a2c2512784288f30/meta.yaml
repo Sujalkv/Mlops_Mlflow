@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/684568383200697609/d421bfd85b2e4334a2c2512784288f30/artifacts
+end_time: 1759292071266
+entry_point_name: ''
+experiment_id: '684568383200697609'
+lifecycle_stage: active
+run_id: d421bfd85b2e4334a2c2512784288f30
+run_name: capable-frog-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759292070614
+status: 3
+tags: []
+user_id: HP

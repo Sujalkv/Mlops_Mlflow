@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/684568383200697609/392f86d0e0204aeebbabd184f0bed4d8/artifacts
+end_time: 1759292556135
+entry_point_name: ''
+experiment_id: '684568383200697609'
+lifecycle_stage: active
+run_id: 392f86d0e0204aeebbabd184f0bed4d8
+run_name: salty-yak-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759292547898
+status: 3
+tags: []
+user_id: HP

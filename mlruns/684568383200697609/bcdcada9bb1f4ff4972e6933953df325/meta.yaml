@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/684568383200697609/bcdcada9bb1f4ff4972e6933953df325/artifacts
+end_time: 1759292451886
+entry_point_name: ''
+experiment_id: '684568383200697609'
+lifecycle_stage: active
+run_id: bcdcada9bb1f4ff4972e6933953df325
+run_name: orderly-swan-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759292436832
+status: 3
+tags: []
+user_id: HP

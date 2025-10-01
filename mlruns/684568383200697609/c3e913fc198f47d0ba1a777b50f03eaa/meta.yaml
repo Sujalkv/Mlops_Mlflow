@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/684568383200697609/c3e913fc198f47d0ba1a777b50f03eaa/artifacts
+end_time: 1759292142868
+entry_point_name: ''
+experiment_id: '684568383200697609'
+lifecycle_stage: active
+run_id: c3e913fc198f47d0ba1a777b50f03eaa
+run_name: clean-crab-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759292141794
+status: 3
+tags: []
+user_id: HP
